@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+body{
+    background: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.first-part {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    width: 100%;
+    height: 100vh;
+    }
+    
+    .red-dead-section { 
+        grid-area: 1 / 1 / 2 / 2; 
+        background: #BF2B27;
+        
+    }
+    .last-of-us-section { 
+        grid-area: 1 / 2 / 2 / 3; 
+        background: #456740;
+    }
+    .god-of-war-section { 
+        grid-area: 2 / 1 / 3 / 2; 
+        background: #5492BD;
+    }
+    .assasins-creed-section { 
+        grid-area: 2 / 2 / 3 / 3; 
+        background: #F7B868;
+    }
+   
+.title-site h1{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px 0;
+}
+
+h2{
+    color: black;
+    list-style: none;
+    text-align: center;
+    margin: 15px 0px;
+    font-size: 34px;
+    letter-spacing: 4px;
+}
+
+
+.imgArt1, .imgArt2, .imgArt3, .imgArt4 {
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+    margin-bottom: 30px;
+}
+
+.imgArtAssaOr{
+    background-image: url(assets/imgArtAssaOr.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.imgArtGOW4{
+    background-image: url(assets/imgArtGOW4.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.imgArtGOW4{
+    background-image: url(assets/imgArtGOW4.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.imgArtTOLS{
+    background-image: url(assets/imgArtTOLS.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.imgArtRDR2{
+    background-image: url(assets/imgArtRDR.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+/* 
+--------- RACCOURCI ----------- */
+
+
+
+.flex-section{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+}
+
+.borderoui{
+    border: 4px solid black;
+}
+
+.opacity-none{
+    opacity: 0;
+}
+
+.opacity-1{
+    opacity: 1;
+}
+
+
+
+/* 
+--------- LES BACKGROUND DIV ----------- */
+
+.red-dead-bg{
+    background: url(assets/red-dead-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: 3s;
+}
+
+.thelastofus-bg{
+    background: url(assets/thelastofus-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.GOW4-bg{
+    background: url(assets/GOD4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.assa0r-bg{
+    background: url(assets/assassinorigins.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
