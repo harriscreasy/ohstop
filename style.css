@@ -60,7 +60,7 @@ h2{
 }
 
 .imgArtAssaOr{
-    background-image: url(assets/imgArtAssaOr.png);
+    background-image: url(ass/imgArtAssaOr.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -68,28 +68,28 @@ h2{
 
 
 .imgArtGOW4{
-    background-image: url(assets/imgArtGOW4.png);
+    background-image: url(ass/imgArtGOW4.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .imgArtGOW4{
-    background-image: url(assets/imgArtGOW4.png);
+    background-image: url(ass/imgArtGOW4.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .imgArtTOLS{
-    background-image: url(assets/imgArtTOLS.png);
+    background-image: url(ass/imgArtTOLS.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .imgArtRDR2{
-    background-image: url(assets/imgArtRDR.png);
+    background-image: url(ass/imgArtRDR.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -127,7 +127,7 @@ h2{
 --------- LES BACKGROUND DIV ----------- */
 
 .red-dead-bg{
-    background: url(assets/red-dead-bg.png);
+    background: url(ass/red-dead-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -135,21 +135,21 @@ h2{
 }
 
 .thelastofus-bg{
-    background: url(assets/thelastofus-bg.jpg);
+    background: url(ass/thelastofus-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .GOW4-bg{
-    background: url(assets/GOD4.png);
+    background: url(ass/GOD4.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .assa0r-bg{
-    background: url(assets/assassinorigins.png);
+    background: url(ass/assassinorigins.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

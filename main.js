@@ -6,7 +6,7 @@ let RDRbg = document.querySelector(".red-dead-section");
 // Variable qui contient la section HTML
 let imgArt1 = document.querySelector(".imgArt1");
 
-let musicRDR = new Audio("assets/RedDead1.mp3");
+let musicRDR = new Audio("ass/RedDead1.mp3");
 // Je crée un nouvel audio qui contient le son de la section
 
 
@@ -44,7 +44,7 @@ let volumeTLOS = document.querySelector("#volumeTLOS");
 let TLOSbg = document.querySelector(".last-of-us-section");
 let imgArt2 = document.querySelector(".imgArt2");
 
-let musicTLOS = new Audio("assets/TLOS2.mp3");
+let musicTLOS = new Audio("ass/TLOS2.mp3");
 
 if (typeof musicTLOS.loop == 'boolean')
 {
@@ -71,7 +71,7 @@ let volumeGOW4 = document.querySelector("#volumeGOW4");
 let GOW4bg = document.querySelector(".god-of-war-section");
 let imgArt3 = document.querySelector(".imgArt3");
 
-let musicGOW4 = new Audio("assets/GOW4.mp3");
+let musicGOW4 = new Audio("ass/GOW4.mp3");
 
 if (typeof musicGOW4.loop == 'boolean')
 {
@@ -99,7 +99,7 @@ let volumeAssaOr = document.querySelector("#volumeAssa0r");
 let AssaOrbg = document.querySelector(".assasins-creed-section");
 let imgArt4 = document.querySelector(".imgArt4");
 
-let musicAssaOr = new Audio("assets/AssaOr.mp3");
+let musicAssaOr = new Audio("ass/AssaOr.mp3");
 
 if (typeof musicAssaOr.loop == 'boolean')
 {
