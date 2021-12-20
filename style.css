@@ -60,7 +60,7 @@ h2{
 }
 
 .imgArtAssaOr{
-    background-image: url(ass/imgArtAssaOr.png);
+    background-image: url(ass/imgArtAssaOr.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -68,14 +68,7 @@ h2{
 
 
 .imgArtGOW4{
-    background-image: url(ass/imgArtGOW4.png);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-.imgArtGOW4{
-    background-image: url(ass/imgArtGOW4.png);
+    background-image: url(ass/imgArtGOW4.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -89,7 +82,7 @@ h2{
 }
 
 .imgArtRDR2{
-    background-image: url(ass/imgArtRDR.png);
+    background-image: url(ass/imgArtRDR.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -131,7 +124,7 @@ h2{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    transition: 3s;
+    
 }
 
 .thelastofus-bg{
@@ -149,7 +142,7 @@ h2{
 }
 
 .assa0r-bg{
-    background: url(ass/assassinorigins.png);
+    background: url(ass/assassinorigins.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
