@@ -1,3 +1,16 @@
+function popup() {
+    Swal.fire({
+        title: 'Bienvenue sur AmbientLove!',
+        text: 'Concentre-toi sur les meilleurs ambiances de tes univers préférés',
+        imageWidth: 400,
+        imageHeight: 200,
+        imageAlt: 'Custom image',
+      })
+};
+
+window.onload = popup;
+
+
 // SECTION RED DEAD REDEMPTION 2
 
 let volumeRDR = document.querySelector("#volumeRDR");
